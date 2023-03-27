@@ -1,5 +1,7 @@
 # Changelog
 
+## [v1.0.3](https://github.com/honyanya/swfz-tools/commits/v1.0.3) - 2023-03-27
+
 ## [v1.0.3](https://github.com/swfz/tools/compare/v1.0.2...v1.0.3) - 2023-01-20
 - chore(deps): update nextjs monorepo to v13.0.2 by @renovate in https://github.com/swfz/tools/pull/320
 - chore(deps): update dependency babel-loader to v9.1.0 by @renovate in https://github.com/swfz/tools/pull/319
